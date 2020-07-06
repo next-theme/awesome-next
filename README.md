@@ -2,6 +2,15 @@
 
 [![](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge-flat2.svg?sanitize=true)](https://github.com/sindresorhus/awesome)
 
+## Live Preview
+
+* :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
+* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me) | [xirong](http://www.ixirong.com)
+* :pisces: Pisces scheme: [Vi](https://notes.iissnan.com) | [Jiaxi He](https://jiaxi.io)
+* :gemini: Gemini scheme: [Raincal](https://raincal.com) | [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [KaitoHH](https://kaitohh.com)
+
+More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/119).
+
 ## Plugins
 
 ### Hexo Plugins
@@ -52,6 +61,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 * [处理中英文混排时的引号](https://github.com/theme-next/hexo-theme-next/issues/462#issuecomment-435429592)
 * [Hexo NexT 博客增加知乎豆瓣图标支持](https://blog.dlzhang.com/posts/32/)
+* [Hexo NexT 主题添加多级相册功能](https://houmin.cc/posts/d487dd02/)
 
 ## License
 
