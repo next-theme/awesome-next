@@ -8,7 +8,7 @@
 
 * :mag_right: [hexo-generator-searchdb](https://github.com/next-theme/hexo-generator-searchdb): Seach data generator plugin for Hexo.
 * :tada: [hexo-filter-emoji](https://github.com/next-theme/hexo-filter-emoji): GitHub emojis for Hexo!
-* :crystal_ball: [hexo-filter-optimize](https://github.com/next-theme/hexo-filter-optimize): A Hexo plugin that optimize the pages loading speed.
+* :triangular_flag_on_post: [hexo-optimize](https://github.com/next-theme/hexo-optimize): A Hexo plugin that optimize the pages loading speed.
 * :mahjong: [hexo-pangu](https://github.com/next-theme/hexo-pangu): Server side pangu.js filter for Hexo. Add spaces between CJK characters and western characters.
 * :100: [hexo-filter-mathjax](https://github.com/next-theme/hexo-filter-mathjax): Server side MathJax renderer plugin for Hexo.
 
@@ -35,13 +35,18 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 #### Comment
 
-* :memo: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
-* :speech_balloon: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): Utteranc.es comment system for NexT.
+* :speech_balloon: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
+* :crystal_ball: [hexo-next-utteranc](https://github.com/theme-next/hexo-next-utteranc): Utteranc.es comment system for NexT.
 * :black_nib: [hexo-next-minivaline](https://github.com/MiniValine/hexo-next-minivaline): MiniValine is a simple and minimalist comment system based on Leancloud.
+
+## NexT On Other Platforms
+
+* [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next)
+* [cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next)
 
 ## Third-party
 
-* :pencil2: [HexoEditor](https://github.com/zhuzhuyule/HexoEditor): Markdown Editor for Hexo blog.
+* :memo: [HexoEditor](https://github.com/zhuzhuyule/HexoEditor): Markdown Editor for Hexo blog.
 
 ## Tutorial
 
@@ -50,4 +55,4 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
