@@ -16,7 +16,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 ### Hexo Plugins
 
 * :mag_right: [hexo-generator-searchdb](https://github.com/next-theme/hexo-generator-searchdb): Seach data generator plugin for Hexo.
-* :tada: [hexo-filter-emoji](https://github.com/next-theme/hexo-filter-emoji): GitHub emojis for Hexo!
+* :rocket: [hexo-filter-emoji](https://github.com/next-theme/hexo-filter-emoji): GitHub emojis for Hexo!
 * :triangular_flag_on_post: [hexo-optimize](https://github.com/next-theme/hexo-optimize): A Hexo plugin that optimize the pages loading speed.
 * :mahjong: [hexo-pangu](https://github.com/next-theme/hexo-pangu): Server side pangu.js filter for Hexo. Add spaces between CJK characters and western characters.
 * :100: [hexo-filter-mathjax](https://github.com/next-theme/hexo-filter-mathjax): Server side MathJax renderer plugin for Hexo.
@@ -33,6 +33,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 #### Fancy stuff
 
+* :tada: [hexo-next-three](https://github.com/next-theme/hexo-next-three): JavaScript 3D library for NexT.
 * :boom: [hexo-next-fireworks](https://github.com/next-theme/hexo-next-fireworks): Fireworks animation for NexT.
 * :bookmark: [hexo-next-title](https://github.com/theme-next/hexo-next-title): Change to a different title when window is no longer in focus.
 * :camera: [hexo-next-exif](https://github.com/next-theme/hexo-next-exif): Exif.js for NexT.
@@ -52,6 +53,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 
 * [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next)
 * [cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next)
+* [Farbox-NexT](https://github.com/Sunnyyoung/Farbox-NexT)
 
 ## Third-party
 
