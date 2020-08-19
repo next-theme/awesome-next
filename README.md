@@ -56,10 +56,6 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * [cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next)
 * [Farbox-NexT](https://github.com/Sunnyyoung/Farbox-NexT)
 
-## Third-party
-
-* :memo: [HexoEditor](https://github.com/zhuzhuyule/HexoEditor): Markdown Editor for Hexo blog.
-
 ## Tutorial
 
 * [处理中英文混排时的引号](https://github.com/theme-next/hexo-theme-next/issues/462#issuecomment-435429592)
