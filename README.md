@@ -48,6 +48,7 @@ See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) f
 * :speech_balloon: [hexo-disqus-php-api](https://github.com/KaitoHH/hexo-disqus-php-api): Yet another great Disqus proxy.
 * :crystal_ball: [hexo-next-valine](https://github.com/next-theme/hexo-next-valine): Valine comment system for NexT.
 * :pencil2: [hexo-next-discussbot](https://github.com/wangjiezhe/hexo-next-discussbot): DiscussBot comment system for NexT
+* :gem: [@waline/hexo-next](https://github.com/lizheming/waline/tree/master/packages/hexo-next): Waline comment system for NexT.
 
 ## NexT On Other Platforms
 
