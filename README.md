@@ -5,8 +5,8 @@
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
-* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me) | [xirong](http://www.ixirong.com)
-* :pisces: Pisces scheme: [Vi](https://notes.iissnan.com) | [Jiaxi He](https://jiaxi.io)
+* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me)
+* :pisces: Pisces scheme: [Vi](https://notes.iissnan.com)
 * :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [Banban](https://blog.dlzhang.com)
 
 More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/119).
