@@ -23,8 +23,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 
 ### NexT Plugins
 
-> See [inject docs](https://theme-next.js.org/docs/advanced-settings.html#Injects) for using `theme_inject`.  
-See [this article](https://www.dnocm.com/articles/beechnut/hexo-next-injects/) for creating npm package.
+> See [inject docs](https://theme-next.js.org/docs/advanced-settings/injects.html) for how to using `theme_inject`.
 
 #### Widgets
 
