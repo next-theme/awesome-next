@@ -7,7 +7,7 @@
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
 * :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me)
 * :pisces: Pisces scheme: [Vi](https://notes.iissnan.com)
-* :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [Banban](https://blog.dlzhang.com)
+* :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [pinlyu](https://pinlyu.com)
 
 More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/119).
 
@@ -60,7 +60,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 ## Tutorial
 
 * [处理中英文混排时的引号](https://github.com/theme-next/hexo-theme-next/issues/462#issuecomment-435429592)
-* [Hexo NexT 博客增加知乎豆瓣图标支持](https://blog.dlzhang.com/posts/32/)
+* [Hexo NexT 博客增加知乎豆瓣图标支持](https://pinlyu.com/post/32/)
 * [Hexo NexT 主题添加多级相册功能](https://houmin.cc/posts/d487dd02/)
 * [往 NexT 主题的归档页面加入 12 生肖](https://io-oi.me/tech/add-chinese-zodiac-to-next/)
 
