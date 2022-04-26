@@ -56,6 +56,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 * [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next)
 * [cnblogs-theme-next](https://github.com/MakerGYT/cnblogs-theme-next)
 * [Farbox-NexT](https://github.com/Sunnyyoung/Farbox-NexT)
+* [hugo-theme-next](https://github.com/elkan1788/hugo-theme-next)
 
 ## Tutorial
 
