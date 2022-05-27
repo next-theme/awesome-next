@@ -50,6 +50,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 * :gem: [@waline/hexo-next](https://github.com/lizheming/waline/tree/master/packages/hexo-next): Waline comment system for NexT.
 * :blue_book: [hexo-next-twikoo](https://github.com/imaegoo/hexo-next-twikoo): Twikoo comment system for NexT.
 * :ghost: [hexo-next-giscus](https://github.com/next-theme/hexo-next-giscus): Giscus comment system for NexT.
+* :milky_way: [hexo-next-artalk](https://github.com/leirock/hexo-next-artalk): Artalk comment system for NexT.
 
 ## NexT On Other Platforms
 
