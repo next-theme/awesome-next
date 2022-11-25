@@ -48,7 +48,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 * :crystal_ball: [hexo-next-valine](https://github.com/next-theme/hexo-next-valine): Valine comment system for NexT.
 * :pencil2: [hexo-next-discussbot](https://github.com/wangjiezhe/hexo-next-discussbot): DiscussBot comment system for NexT.
 * :gem: [@waline/hexo-next](https://github.com/walinejs/waline/tree/main/packages/hexo-next): Waline comment system for NexT.
-* :blue_book: [hexo-next-twikoo](https://github.com/imaegoo/hexo-next-twikoo): Twikoo comment system for NexT.
+* :blue_book: [hexo-next-twikoo](https://github.com/twikoojs/hexo-next-twikoo): Twikoo comment system for NexT.
 * :ghost: [hexo-next-giscus](https://github.com/next-theme/hexo-next-giscus): Giscus comment system for NexT.
 * :milky_way: [hexo-next-artalk](https://github.com/leirock/hexo-next-artalk): Artalk comment system for NexT.
 
@@ -62,7 +62,7 @@ More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/
 ## Tutorial
 
 * [处理中英文混排时的引号](https://github.com/theme-next/hexo-theme-next/issues/462#issuecomment-435429592)
-* [Hexo NexT 博客增加知乎豆瓣图标支持](https://pinlyu.com/post/32/)
+* [Hexo NexT 博客增加知乎豆瓣图标支持](https://pinlyu.com/posts/32/)
 * [Hexo NexT 主题添加多级相册功能](https://houmin.cc/posts/d487dd02/)
 * [往 NexT 主题的归档页面加入 12 生肖](https://io-oi.me/tech/add-chinese-zodiac-to-next/)
 
