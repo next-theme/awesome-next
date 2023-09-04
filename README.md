@@ -5,7 +5,7 @@
 ## Live Preview
 
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
-* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org) | [uchuhimo](https://uchuhimo.me)
+* :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org)
 * :pisces: Pisces scheme: [Vi](https://notes.iissnan.com)
 * :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [pinlyu](https://pinlyu.com)
 
