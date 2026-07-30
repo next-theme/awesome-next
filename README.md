@@ -7,7 +7,7 @@
 * :heart_decoration: Muse scheme: [LEAFERx](https://leaferx.online) | [Alex LEE](http://saili.science) | [OAwan](https://oawan.me)
 * :six_pointed_star: Mist scheme: [Jeff](https://blog.zzbd.org)
 * :pisces: Pisces scheme: [Vi](https://notes.iissnan.com)
-* :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org) | [pinlyu](https://pinlyu.com)
+* :gemini: Gemini scheme: [Dandy](https://dandyxu.me) | [Mimi](https://zhangshuqiao.org)
 
 More «NexT» examples [here](https://github.com/iissnan/hexo-theme-next/issues/119).
 
